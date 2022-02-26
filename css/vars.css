@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #eeeade;
+  --second-brand-color: #f5f4eb;
+  --third-brand-color: #ee6a5b;
+  --fourth-brand-color: #e1dcc9;
+
+  --main-font:  'Lato';
+  --title-font:  'Lato Bold';
+  --main-title-font: 'Amatic SC';
+
+  font-size: 62.5%;
+}
