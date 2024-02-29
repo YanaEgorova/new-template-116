@@ -215,6 +215,7 @@
     }
     .hero .title {
         font-size: 15rem;
+        max-width: 70rem;
     }
     .hero .btn {
         margin-bottom: 0;
